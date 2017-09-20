@@ -10,7 +10,7 @@
     "components"
   ],
   "dependencies": {
-    "select2": "^3.3.2"
+    "select2": "CassioFelippe/select2#master"
   },
   "devDependencies": {
     "bootstrap": "~3.3.0",
